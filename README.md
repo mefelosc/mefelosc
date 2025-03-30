@@ -8,4 +8,6 @@
  
 <a target="_blank" href="https://www.linkedin.com/in/carlos-felipe-s-m/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mefelosc) 
+- Minha Stack
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
