@@ -1,5 +1,5 @@
 ## Olá! 👋
-![linkedin](https://www.linkedin.com/in/carlos-felipe-s-m/)
+![linkedin]([https://www.linkedin.com/in/carlos-felipe-s-m/](https://www.linkedin.com/in/carlos-felipe-s-m/))
 <!--
 **mefelosc/mefelosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
