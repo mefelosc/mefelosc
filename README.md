@@ -1,5 +1,5 @@
 ## Olá! 👋
-![Linkedin](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-felipe-s-m%2F)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **mefelosc/mefelosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
