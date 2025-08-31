@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🔭 No momento criando projetos com Python 
+- 🔭 No momento criando projetos com SvelteKit, Tailwind, JS.
 - 🌱 Atualmente estudando Desenvolvimento Web
 - 👯 Procurando me tornar um desenvolvedor Full Stack
 - 🤔 Buscando ideias para criar uma Startup
