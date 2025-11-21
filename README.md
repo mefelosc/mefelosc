@@ -1,9 +1,7 @@
 ## Olá! 👋
 
-- 🔭 No momento criando projetos com SvelteKit, Tailwind, JS.
-- 🌱 Atualmente estudando Desenvolvimento Web
-- 👯 Procurando me tornar um desenvolvedor Full Stack
-- 🤔 Buscando ideias para criar uma Startup
+- 🔭 No momento criando projetos com SvelteKit & Node
+- 👯 Procurando me tornar um desenvolvedor Full Stack 
 - 📫 Como entrar em contato: 
  
 <a target="_blank" href="https://www.linkedin.com/in/carlos-felipe-s-m/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
