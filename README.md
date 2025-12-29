@@ -23,12 +23,12 @@ Meu objetivo é unir o desenvolvimento de software com boas práticas de seguran
 
 ---
 
-### 🖥️ System Status
+### 🏆 Conquistas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mefelosc&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
-</p>
-<br/>
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mefelosc&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
 ---
 
 <div align="left">
