@@ -1,11 +1,46 @@
-## Olá! 👋
+### Olá, eu sou o Carlos Felipe! 👋
 
-- 🔭 No momento criando projetos com SvelteKit & Node
-- 👯 Procurando me tornar um desenvolvedor Full Stack 
-- 📫 Como entrar em contato: 
- 
-<a target="_blank" href="https://www.linkedin.com/in/carlos-felipe-s-m/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+Sou estudante de **Ciência da Computação** (24 anos), entusiasta de tecnologia e focado em resolver problemas reais através de código e infraestrutura.
 
-- Minha Stack
+Meu objetivo é unir o desenvolvimento de software com boas práticas de segurança e operações.
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+- 🔭 Atualmente centralizo meus estudos no meu **[CS Studies Monorepo](https://github.com/SEU_USUARIO/cs-studies-monorepo)**
+- 🌱 Focando em **Fullstack (Svelte/Node)** e **Segurança da Informação**
+- 💼 Aberto a oportunidades em **Desenvolvimento** ou **Suporte/Infra de TI**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
