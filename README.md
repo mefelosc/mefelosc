@@ -23,10 +23,10 @@ Meu objetivo é unir o desenvolvimento de software com boas práticas de seguran
 
 ---
 
-### 🏆 Conquistas
+### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mefelosc&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mefelosc&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
