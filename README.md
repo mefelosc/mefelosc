@@ -4,7 +4,7 @@ Sou estudante de **Ciência da Computação** (24 anos), entusiasta de tecnologi
 
 Meu objetivo é unir o desenvolvimento de software com boas práticas de segurança e operações.
 
-- 🔭 Atualmente centralizo meus estudos no meu **[CS Studies Monorepo](https://github.com/SEU_USUARIO/cs-studies-monorepo)**
+- 🔭 Atualmente centralizo meus estudos no meu **[CS Studies Monorepo](https://github.com/mefelosc/cs-studies-monorepo)**
 - 🌱 Focando em **Fullstack (Svelte/Node)** e **Segurança da Informação**
 - 💼 Aberto a oportunidades em **Desenvolvimento** ou **Suporte/Infra de TI**
 
