@@ -26,12 +26,9 @@ Meu objetivo é unir o desenvolvimento de software com boas práticas de seguran
 ### 📊 GitHub Stats
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mefelosc&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mefelosc&layout=compact&theme=dracula&hide_border=true" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mefelosc&theme=dracula" alt="Profile Details" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mefelosc&theme=dracula" alt="Languages" />
 </div>
 
 ---
