@@ -1,8 +1,8 @@
 ### Olá, eu sou o Carlos Felipe! 👋
 
-Sou estudante de **Ciência da Computação** (24 anos), entusiasta de tecnologia e focado em resolver problemas reais através de código e infraestrutura.
+Sou estudante de **Ciência da Computação** (24 anos), entusiasta de tecnologia e focado em resolver problemas reais através de código.
 
-Meu objetivo é unir o desenvolvimento de software com boas práticas de segurança e operações.
+Meu objetivo é unir o desenvolvimento de software com boas práticas de segurança.
 
 - 🔭 Atualmente centralizo meus estudos no meu **[CS Studies Monorepo](https://github.com/mefelosc/cs-studies-monorepo)**
 - 🌱 Focando em **Fullstack (Svelte/Node)** e **Segurança da Informação**
