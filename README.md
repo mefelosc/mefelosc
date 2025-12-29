@@ -23,17 +23,11 @@ Meu objetivo é unir o desenvolvimento de software com boas práticas de seguran
 
 ---
 
-### 📊 GitHub Stats
+### 🖥️ System Status
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Carlos+Felipe;Computer+Science+Student;Fullstack+Developer;InfoSec+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <b>Explorando a intersecção entre Engenharia de Software e Cibersegurança.</b>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mefelosc&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
+</p>
 <br/>
 ---
 
